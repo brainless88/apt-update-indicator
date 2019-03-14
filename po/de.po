@@ -20,7 +20,7 @@ msgstr ""
 
 #: indicator.js:145
 msgid "New in repository"
-msgstr ""
+msgstr "Neu in den Paketquellen"
 
 #: indicator.js:151 Settings.ui.h:40
 msgid "Local/Obsolete packages"
@@ -32,7 +32,7 @@ msgstr ""
 
 #: indicator.js:163
 msgid "Autoremovable"
-msgstr ""
+msgstr "Automatisch erntfernbar"
 
 #: indicator.js:170
 msgid "Settings"
@@ -64,11 +64,11 @@ msgstr "Fehler"
 
 #: indicator.js:299
 msgid "No internet"
-msgstr ""
+msgstr "Keine Internetverbindung"
 
 #: indicator.js:302
 msgid "Initializing"
-msgstr ""
+msgstr "Einrichten"
 
 #: indicator.js:306
 msgid "Up to date :)"
@@ -78,7 +78,7 @@ msgstr "Auf dem Laufenden :)"
 #, fuzzy
 msgid "New Update"
 msgid_plural "New Updates"
-msgstr[0] "Namen der neuen Aktualisierungen"
+msgstr[0] "Namen der neuen Aktualisierung"
 msgstr[1] "Namen der neuen Aktualisierungen"
 
 #: indicator.js:347
@@ -95,11 +95,11 @@ msgstr "Jetzt aktualisieren"
 #: monitors.js:42
 #, javascript-format
 msgid "Can not connect to %s"
-msgstr ""
+msgstr "Keine Verbindung zu %s"
 
 #: updateManager.js:541
 msgid "Last check: "
-msgstr ""
+msgstr "Letzte überprüfung"
 
 #: Settings.ui.h:1
 msgid "Command to update packages"
@@ -107,11 +107,11 @@ msgstr "Kommando, um Pakete zu aktualisieren"
 
 #: Settings.ui.h:2
 msgid "You can use sudo instead of pkexec for the terminal."
-msgstr ""
+msgstr "sudo anstelle von pkexec im Terminal verwenden"
 
 #: Settings.ui.h:3
 msgid "Show output on terminal"
-msgstr ""
+msgstr "Zeige die ausgabe im Terminal an"
 
 #: Settings.ui.h:4
 msgid "Terminal to use"
@@ -128,19 +128,19 @@ msgstr "<b>Überprüfe auf Aktualisierungen</b>"
 
 #: Settings.ui.h:7
 msgid "Automatic checks, 0 to disable"
-msgstr ""
+msgstr "Automatische überprüfung, 0 zum deaktivieren"
 
 #: Settings.ui.h:8
 msgid "Hours"
-msgstr ""
+msgstr "Stunden"
 
 #: Settings.ui.h:9
 msgid "Days"
-msgstr ""
+msgstr "Tage"
 
 #: Settings.ui.h:10
 msgid "Weeks"
-msgstr ""
+msgstr "Wochen"
 
 #: Settings.ui.h:11
 #, fuzzy
@@ -149,7 +149,7 @@ msgstr "Versionsnummern weglassen"
 
 #: Settings.ui.h:12
 msgid "Always show the indicator"
-msgstr ""
+msgstr "Den Updater immer anzeigen"
 
 #: Settings.ui.h:13
 msgid "Show updates count on indicator"
@@ -209,7 +209,7 @@ msgstr ""
 
 #: Settings.ui.h:26
 msgid "Reset"
-msgstr ""
+msgstr "Zurücksetzten"
 
 #: Settings.ui.h:27
 #, fuzzy
@@ -222,7 +222,7 @@ msgstr ""
 
 #: Settings.ui.h:29
 msgid "Launch gnome-software"
-msgstr ""
+msgstr "Starte gnome-software"
 
 #: Settings.ui.h:30
 msgid "Update-manager (Ubuntu only)"
@@ -230,11 +230,11 @@ msgstr ""
 
 #: Settings.ui.h:31
 msgid "Gnome package updater"
-msgstr ""
+msgstr "Gnome Paket aktualisierer"
 
 #: Settings.ui.h:32
 msgid "Custom"
-msgstr ""
+msgstr "Benutzerdefiniert"
 
 #: Settings.ui.h:33
 msgid ""
@@ -265,7 +265,7 @@ msgstr ""
 
 #: Settings.ui.h:38
 msgid "New packages in repository"
-msgstr ""
+msgstr "Neue Pakete in den Paketquellen"
 
 #: Settings.ui.h:39
 msgid ""
@@ -282,7 +282,7 @@ msgstr ""
 
 #: Settings.ui.h:42
 msgid "Residual packages"
-msgstr ""
+msgstr "verbleibende Pakete"
 
 #: Settings.ui.h:43
 msgid ""
@@ -292,15 +292,15 @@ msgstr ""
 
 #: Settings.ui.h:44
 msgid "Autoremovable packages"
-msgstr ""
+msgstr "Automatisch entfernbare Pakete"
 
 #: Settings.ui.h:45
 msgid "Package status"
-msgstr ""
+msgstr "Paket status"
 
 #: Settings.ui.h:46
 msgid "version: "
-msgstr ""
+msgstr "Version: "
 
 #: Settings.ui.h:47
 msgid "Adds an indicator to the top panel that allows to check for updates"
@@ -312,7 +312,7 @@ msgstr ""
 
 #: Settings.ui.h:49
 msgid "Webpage"
-msgstr ""
+msgstr "Webseite"
 
 #: Settings.ui.h:50
 msgid ""
@@ -323,4 +323,4 @@ msgstr ""
 
 #: Settings.ui.h:52
 msgid "About"
-msgstr ""
+msgstr "Über"
